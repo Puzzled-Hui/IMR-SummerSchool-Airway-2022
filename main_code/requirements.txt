@@ -1,0 +1,11 @@
+numpy
+monai
+nibabel
+natsort
+tqdm
+scikit-image
+scikit-learn
+scipy
+simpleitk
+einops
+thop
