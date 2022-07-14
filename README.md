@@ -37,7 +37,7 @@ Use the **casex_clean.nii** for input CT volumes and the corresponding **casex_l
    The entrance is at ***main_code/scripts/Demo_Inference/demo_test.py***. You can try the following command:
 
     ```
-    python demo_test.py --input_path $INPUT_PATH --output_path $OUTPUT_PATH
+    python demo_test.py --input_path $INPUT_PATH --label_path $LABEL_PATH --output_path $OUTPUT_PATH
     ```
 
    You could use the ITK-SNAP / 3D-Slicer or any visualization tools to check your results.
